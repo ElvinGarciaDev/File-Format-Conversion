@@ -1,6 +1,3 @@
-//          CSC237 Project3: File Format Conversion Program
-// Student: Elvin Garcia
-// Due date: Saturday, November 6, 2021
 // Description:
 //      This project involves designing and creating a C++ program 
 //     that will convert a “pipe-delimited” text file to a file in CSV format. 
